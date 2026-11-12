@@ -181,3 +181,9 @@ footer a:hover{color:var(--g2)}
   .vhero .btn{width:100%;text-align:center}
 }
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+/* "LOGISTICS & WAREHOUSING" label in green */
+.vhero .eyebrow,
+.vhero .hero-kicker .eyebrow {
+    color: #173B2C !important;
+    text-shadow: none !important;
+}
